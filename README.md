@@ -22,7 +22,7 @@ Buatlah 10 soal Matematika Diskrit beserta pembahasan dari soal tersebut dalam d
   - Presentasi jawaban (kerunutan, penggunaan bahasa)
   
 ## Mekanisme Pengumpulan
-Dokumen dikirim ke email 13517127@std.stei.itb.ac.id dengan subject "Spek Tubes - [NIM]" dalam bentuk pdf. Bila sudah dikirim, tinggal nunggu dinilai saja.
+Dokumen dikirim ke email 13517127@std.stei.itb.ac.id dengan subject "Problem Maker - [NIM]" dalam bentuk pdf. Bila sudah dikirim, tinggal nunggu dinilai saja.
 
 ## Lain-lain
 - Deadline : 29 Juli 2020 Pukul 23.59
